@@ -28,3 +28,7 @@ The marker layer map and pop-up marker for the city looks similar to the folowin
 
 ## Deliverable 3: Create a travel Itinerary map 
 We are going to use the google directions API to create the travel itinerary that shows the route between four cities and that is been choosen from the customer's possible travel destinations. 
+
+![](https://github.com/urvish7/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
+
+![](https://github.com/urvish7/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
